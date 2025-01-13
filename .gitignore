@@ -12,3 +12,8 @@ node_modules
 *.sw?
 db.json
 .env
+
+# Local Netlify folder
+.netlify
+deno.lock
+noteappsrcidm.netlify.app
